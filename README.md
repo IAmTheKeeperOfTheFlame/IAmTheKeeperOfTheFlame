@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IAmTheKeeperOfTheFlame
-- 👀 I’m interested in learning more Blockchain and smart contracts.
-- 🌱 I’m currently learning EOS Blockchain.
+- 👀 I’m interested in learning more about Blockchain and smart contracts.
+- 🌱 I’m currently learning EOS Blockchain and the overall basics of Blockchain technolgy.
 - 💞️ I’m looking to collaborate on merging live events with the metaverse games and platforms.
 - 📫 How to reach me @vultraman in Discord.
 
